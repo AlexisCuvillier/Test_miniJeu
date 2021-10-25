@@ -1,0 +1,16 @@
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.exe
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.deps.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.runtimeconfig.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\ref\Mini_jeuxTD.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\bin\Debug\net5.0\Mini_jeuxTD.pdb
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\ref\Mini_jeuxTD.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.pdb
+C:\Users\alexi\OneDrive\Documents\Formation\C#\Mini_jeuxTD\Mini_jeuxTD\obj\Debug\net5.0\Mini_jeuxTD.genruntimeconfig.cache
